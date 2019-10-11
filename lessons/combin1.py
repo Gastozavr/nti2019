@@ -12,5 +12,5 @@ s = 0
 p = 1
 for i in range(10,0,-1):
     s += C(n,i)**2
-    print(i,C(n,i))
+    #print(i,C(n,i))
 print(s)
